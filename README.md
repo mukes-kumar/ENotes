@@ -1,5 +1,7 @@
 # ENotes
-This is web Application using java , jsp , servlet 
+This is web Application using java , jsp , servlet and this basic project for check yourself skills. 
+IDE used -: Eclipes ide 
+Technologies used-: Java,Sevlet, JSP, Mysql Database for storing web app data 
 
 1. Login Page
  <img width="948" alt="image" src="https://github.com/user-attachments/assets/045c905f-b83c-4805-8859-0116d87a158b">
